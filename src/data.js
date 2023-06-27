@@ -66,3 +66,4 @@ export const puppyList = [
       tricks: [],
     },
   ];
+
