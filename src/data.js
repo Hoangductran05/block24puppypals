@@ -7,7 +7,7 @@ export const puppyList = [
       age: 5,
       ownerId: 1,
       tricks: [
-        { id: 2, title: "Lay Down" },
+        { id: 2, title: "Laaay Down" },
         { id: 3, title: "Jump through flaming hoop" },
       ],
     },
